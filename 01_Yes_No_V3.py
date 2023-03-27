@@ -21,4 +21,3 @@ while show_instructions != "x":
         print("Please answer Yes or No")
 
     print(f"You entered '{show_instructions}'")
-
